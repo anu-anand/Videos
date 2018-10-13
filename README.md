@@ -8,7 +8,7 @@ For linux
 * [ ] [The Complete Red Hat Linux Course: Beginner to RHCSA!-13 hrs](https://www.youtube.com/watch?v=uXD-Nuguhzc)
 
 **General Purpose**
-* [x] [Think like a programer- Histesh Chaudhary](https://www.youtube.com/watch?v=5yJ38OWKcU0)
+* [x] [Think like a programer](https://www.youtube.com/watch?v=5yJ38OWKcU0)
 * [x] [Markdown for Github](https://guides.github.com/features/mastering-markdown/)
 
 **Table Format**
