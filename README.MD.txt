@@ -1,0 +1,1 @@
+[think like](https://www.youtube.com/watch?v=5yJ38OWKcU0)
