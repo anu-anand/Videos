@@ -4,6 +4,7 @@
 For linux 
 * [ ] [Linux Bash for beginners](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 * [ ] [Linux CLI for beginners - playlist](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
+* [ ] [The Complete Linux Course: Beginner to Power User!](https://www.youtube.com/watch?v=wBp0Rb-ZJak&t=135s)
 * [ ] [Ezeelinux - Bash Scripts](https://www.ezeelinux.com/bash-scripts/)
 * [ ] [The Complete Red Hat Linux Course: Beginner to RHCSA!-13 hrs](https://www.youtube.com/watch?v=uXD-Nuguhzc)
 
