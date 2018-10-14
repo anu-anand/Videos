@@ -17,3 +17,5 @@ Area | Where
 -----|------
 Linux| ubuntu and bash
 R| Shiny Dev
+Linux| Red Hat Certifications
+
