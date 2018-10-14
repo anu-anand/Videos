@@ -18,7 +18,7 @@ For linux
 * [x] [Markdown for Github](https://guides.github.com/features/mastering-markdown/)
 * [x] [0 and 1 theory to learn](https://www.youtube.com/watch?v=bPRgl2aJmxY)
 
-**Table Format**
+**Areas of Interest**
 
 Area | Where 
 -----|------
