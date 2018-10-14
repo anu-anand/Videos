@@ -10,6 +10,7 @@ For linux
 **General Purpose**
 * [x] [Think like a programer](https://www.youtube.com/watch?v=5yJ38OWKcU0)
 * [x] [Markdown for Github](https://guides.github.com/features/mastering-markdown/)
+* [x] [0 and 1 theory to learn](https://www.youtube.com/watch?v=bPRgl2aJmxY)
 
 **Table Format**
 
