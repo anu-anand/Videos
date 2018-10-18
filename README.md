@@ -6,6 +6,7 @@ For linux
 * [ ] [Linux CLI for beginners - playlist](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
 * [ ] [Ezeelinux - Bash Scripts](https://www.ezeelinux.com/bash-scripts/)
 * [ ] [The Complete Red Hat Linux Course: Beginner to RHCSA!-13 hrs](https://www.youtube.com/watch?v=uXD-Nuguhzc)
+* [ ] [ C# Tutorial playlist TutorialsPoints on Youtube](https://www.youtube.com/watch?v=VToVLx8BXyk&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM&index=5)
 
 **General Purpose**
 * [x] [Think like a programer](https://www.youtube.com/watch?v=5yJ38OWKcU0)
