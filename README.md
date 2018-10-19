@@ -16,6 +16,7 @@
 * [x] [Think like a programer](https://www.youtube.com/watch?v=5yJ38OWKcU0)
 * [x] [Markdown for Github](https://guides.github.com/features/mastering-markdown/)
 * [x] [0 and 1 theory to learn](https://www.youtube.com/watch?v=bPRgl2aJmxY)
+* [ ] [C# tutorial on YouTube playlist](https://www.youtube.com/watch?v=MhdxhUgSpFw&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM)
 
 **Areas of Interest**
 
