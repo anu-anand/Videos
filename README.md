@@ -12,15 +12,22 @@
 * [ ] [ C# Tutorial playlist TutorialsPoints on Youtube](https://www.youtube.com/watch?v=VToVLx8BXyk&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM&index=5)
 
 
+**Pyhton**
+* [ ] [Create an .exe file with python](https://www.youtube.com/watch?v=YeJlxNf3Clg)
+* [ ] [Python tutorial for beginners](https://www.youtube.com/watch?v=IZj8hLrkABs&list=PLei96ZX_m9sWS2gm1zGqGq6ZzU9T5QSg7)
+* [ ] [Beginners programms- official dox](https://wiki.python.org/moin/SimplePrograms)
+* [] [Packaging in python](https://packaging.python.org/tutorials/installing-packages/)
+
+
 **General Purpose**
 * [x] [Think like a programer](https://www.youtube.com/watch?v=5yJ38OWKcU0)
 * [x] [Markdown for Github](https://guides.github.com/features/mastering-markdown/)
 * [x] [0 and 1 theory to learn](https://www.youtube.com/watch?v=bPRgl2aJmxY)
 * [ ] [C# tutorial on YouTube playlist](https://www.youtube.com/watch?v=MhdxhUgSpFw&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM)
 * [ ] [C# in one tutorial](https://www.youtube.com/watch?v=lisiwUZJXqQ)
+
 **Areas of Interest**
-**Pyhton**
-* [ ] [Create an .exe file with python](https://www.youtube.com/watch?v=YeJlxNf3Clg)
+
 Area | Where 
 -----|------
 Linux| ubuntu and bash
