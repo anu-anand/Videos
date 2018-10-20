@@ -17,9 +17,10 @@
 * [x] [Markdown for Github](https://guides.github.com/features/mastering-markdown/)
 * [x] [0 and 1 theory to learn](https://www.youtube.com/watch?v=bPRgl2aJmxY)
 * [ ] [C# tutorial on YouTube playlist](https://www.youtube.com/watch?v=MhdxhUgSpFw&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM)
-
+* [ ] [C# in one tutorial](https://www.youtube.com/watch?v=lisiwUZJXqQ)
 **Areas of Interest**
-
+**Pyhton**
+* [ ] [Create an .exe file with python](https://www.youtube.com/watch?v=YeJlxNf3Clg)
 Area | Where 
 -----|------
 Linux| ubuntu and bash
